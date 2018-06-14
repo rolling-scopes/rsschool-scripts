@@ -11,9 +11,9 @@ services:
     restart: always
     environment:
       - DRONE_OPEN=true
-      - DRONE_HOST=http://127.0.0.1
+      - DRONE_HOST=http://ec2-52-59-213-87.eu-central-1.compute.amazonaws.com
       - DRONE_ORGS=rolling-scopes
-      - DRONE_ADMIN=apalchys
+      - DRONE_ADMIN=apalchys,dzmitry-varabei
       - DRONE_GITHUB=true
       - DRONE_GITHUB_CLIENT=${DRONE_GITHUB_CLIENT}
       - DRONE_GITHUB_SECRET=${DRONE_GITHUB_SECRET}
