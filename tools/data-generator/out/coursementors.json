@@ -1,0 +1,3842 @@
+[
+  {
+    "userId": "eddie79",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "eddie79",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "eddie79",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "julio_jones33",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "julio_jones33",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "julio_jones33",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "layla_larkin",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "layla_larkin",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "layla_larkin",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "anika42",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "anika42",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "anika42",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "buford_bruen58",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "buford_bruen58",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "buford_bruen58",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "ariel.becker",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "ariel.becker",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "ariel.becker",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "afton.murazik27",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "afton.murazik27",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "afton.murazik27",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "rene67",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "rene67",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "rene67",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "wayne_kling19",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "wayne_kling19",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "wayne_kling19",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "vincenzo5",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "vincenzo5",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "vincenzo5",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "thomas_kohler",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "thomas_kohler",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "thomas_kohler",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "dean_jerde7",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "dean_jerde7",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "dean_jerde7",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "imelda.willms",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "imelda.willms",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "imelda.willms",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "annabelle43",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "annabelle43",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "annabelle43",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "cassandra.windler",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "cassandra.windler",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "cassandra.windler",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "zack_dare63",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "zack_dare63",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "zack_dare63",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "elfrieda_klocko99",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "elfrieda_klocko99",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "elfrieda_klocko99",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "nikolas_koepp",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "nikolas_koepp",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "nikolas_koepp",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "antonetta39",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "antonetta39",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "antonetta39",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "newton_mcglynn74",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "newton_mcglynn74",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "newton_mcglynn74",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "cristina19",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "cristina19",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "cristina19",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "aurelio6",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "aurelio6",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "aurelio6",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "jazmyn43",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "jazmyn43",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "jazmyn43",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "camron.marvin87",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "camron.marvin87",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "camron.marvin87",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "tracy_hudson",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "tracy_hudson",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "tracy_hudson",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "daryl.brakus90",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "daryl.brakus90",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "daryl.brakus90",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "thalia55",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "thalia55",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "thalia55",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "hans32",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "hans32",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "hans32",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "brando.monahan55",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "brando.monahan55",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "brando.monahan55",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "kolby.herzog",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "kolby.herzog",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "kolby.herzog",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "nathen12",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "nathen12",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "nathen12",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "chadrick.kutch",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "chadrick.kutch",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "chadrick.kutch",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "franz_breitenberg",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "franz_breitenberg",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "franz_breitenberg",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "thurman2",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "thurman2",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "thurman2",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "jacklyn.schuster",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "jacklyn.schuster",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "jacklyn.schuster",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "tatyana68",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "tatyana68",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "tatyana68",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "gage.hodkiewicz45",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "gage.hodkiewicz45",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "gage.hodkiewicz45",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "ned.jacobi",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "ned.jacobi",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "ned.jacobi",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "ola0",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "ola0",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "ola0",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "lysanne.waelchi42",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "lysanne.waelchi42",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "lysanne.waelchi42",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "taryn58",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "taryn58",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "taryn58",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "wilburn_hessel",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "wilburn_hessel",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "wilburn_hessel",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "sherman_rempel",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "sherman_rempel",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "sherman_rempel",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "antwon_bergstrom85",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "antwon_bergstrom85",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "antwon_bergstrom85",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "caleigh49",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "caleigh49",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "caleigh49",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "kattie_pacocha",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "kattie_pacocha",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "kattie_pacocha",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "toby98",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "toby98",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "toby98",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "dudley_gleason",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "dudley_gleason",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "dudley_gleason",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "lydia_armstrong75",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "lydia_armstrong75",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "lydia_armstrong75",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "dameon.kutch",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "dameon.kutch",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "dameon.kutch",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "emily81",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "emily81",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "emily81",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "dalton65",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "dalton65",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "dalton65",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "jennyfer_king",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "jennyfer_king",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "jennyfer_king",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "ebony35",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "ebony35",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "ebony35",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "karley.gerhold93",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "karley.gerhold93",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "karley.gerhold93",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "quentin_hamill",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "quentin_hamill",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "quentin_hamill",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "glenna.senger",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "glenna.senger",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "glenna.senger",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "jackeline_hintz",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "jackeline_hintz",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "jackeline_hintz",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "leanna_mraz",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "leanna_mraz",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "leanna_mraz",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "deron.runte85",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "deron.runte85",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "deron.runte85",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "elda_wilkinson87",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "elda_wilkinson87",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "elda_wilkinson87",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "joaquin.howe",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "joaquin.howe",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "joaquin.howe",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "rae.lubowitz",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "rae.lubowitz",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "rae.lubowitz",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "breana64",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "breana64",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "breana64",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "abbie.barrows",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "abbie.barrows",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "abbie.barrows",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "jack_conn46",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "jack_conn46",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "jack_conn46",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "sophie.hand",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "sophie.hand",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "sophie.hand",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "mario_kreiger",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "mario_kreiger",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "mario_kreiger",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "quinten.grant21",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "quinten.grant21",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "quinten.grant21",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "lonzo.hane",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "lonzo.hane",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "lonzo.hane",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "trycia_jast83",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "trycia_jast83",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "trycia_jast83",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "edmund90",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "edmund90",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "edmund90",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "ofelia_spinka",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "ofelia_spinka",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "ofelia_spinka",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "hortense4",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "hortense4",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "hortense4",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "buddy.dicki77",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "buddy.dicki77",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "buddy.dicki77",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "pasquale.kerluke",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "pasquale.kerluke",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "pasquale.kerluke",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "jonatan66",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "jonatan66",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "jonatan66",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "sheldon_schoen59",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "sheldon_schoen59",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "sheldon_schoen59",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "andreanne.hamill",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "andreanne.hamill",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "andreanne.hamill",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "darlene89",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "darlene89",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "darlene89",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "akeem_jacobson",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "akeem_jacobson",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "akeem_jacobson",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "elsie.price15",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "elsie.price15",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "elsie.price15",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "russ.boyle",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "russ.boyle",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "russ.boyle",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "ike73",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "ike73",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "ike73",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "nathen_schultz21",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "nathen_schultz21",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "nathen_schultz21",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "eulah_terry",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "eulah_terry",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "eulah_terry",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "edna72",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "edna72",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "edna72",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "lemuel.abernathy",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "lemuel.abernathy",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "lemuel.abernathy",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "koby_schaefer",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "koby_schaefer",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "koby_schaefer",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "lenora87",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "lenora87",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "lenora87",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "laura79",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "laura79",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "laura79",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "delfina76",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "delfina76",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "delfina76",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "bertha1",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "bertha1",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "bertha1",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "christelle.johns",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "christelle.johns",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "christelle.johns",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "glennie.beer10",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "glennie.beer10",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "glennie.beer10",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "carolyne54",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "carolyne54",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "carolyne54",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "camron.ohara50",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "camron.ohara50",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "camron.ohara50",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "raleigh.maggio62",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "raleigh.maggio62",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "raleigh.maggio62",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "adolf.lemke",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "adolf.lemke",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "adolf.lemke",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "noah72",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "noah72",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "noah72",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "landen.goodwin",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "landen.goodwin",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "landen.goodwin",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "miguel90",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "miguel90",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "miguel90",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "bessie.will",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "bessie.will",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "bessie.will",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "melissa.baumbach",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "melissa.baumbach",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "melissa.baumbach",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "joanny.murray",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "joanny.murray",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "joanny.murray",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "sabina.veum73",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "sabina.veum73",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "sabina.veum73",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "cleve.schroeder",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "cleve.schroeder",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "cleve.schroeder",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "talia_collier",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "talia_collier",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "talia_collier",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "aliya_wiza15",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "aliya_wiza15",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "aliya_wiza15",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "ella_abbott",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "ella_abbott",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "ella_abbott",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "jason64",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "jason64",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "jason64",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "clarissa_kerluke",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "clarissa_kerluke",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "clarissa_kerluke",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "francesca78",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "francesca78",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "francesca78",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "dennis.mueller",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "dennis.mueller",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "dennis.mueller",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "stephanie63",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "stephanie63",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "stephanie63",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "pascale_stoltenberg82",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "pascale_stoltenberg82",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "pascale_stoltenberg82",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "ryann92",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "ryann92",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "ryann92",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "angelina.conn1",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "angelina.conn1",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "angelina.conn1",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "paige.oberbrunner",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "paige.oberbrunner",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "paige.oberbrunner",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "dorthy_mcglynn81",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "dorthy_mcglynn81",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "dorthy_mcglynn81",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "lonie.armstrong15",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "lonie.armstrong15",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "lonie.armstrong15",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "tiara42",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "tiara42",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "tiara42",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "nasir45",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "nasir45",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "nasir45",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "francis.funk99",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "francis.funk99",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "francis.funk99",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "louvenia37",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "louvenia37",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "louvenia37",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "abraham_stiedemann",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "abraham_stiedemann",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "abraham_stiedemann",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "bianka.breitenberg72",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "bianka.breitenberg72",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "bianka.breitenberg72",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "rudolph26",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "rudolph26",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "rudolph26",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "rebeca58",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "rebeca58",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "rebeca58",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "favian.herman16",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "favian.herman16",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "favian.herman16",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "carlos_rutherford55",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "carlos_rutherford55",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "carlos_rutherford55",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "art42",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "art42",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "art42",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "maximus.roob",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "maximus.roob",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "maximus.roob",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "emie.barton",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "emie.barton",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "emie.barton",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "alize.tromp",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "alize.tromp",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "alize.tromp",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "eve50",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "eve50",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "eve50",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "carolina89",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "carolina89",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "carolina89",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "randi.gottlieb",
+    "courseId": "rs-course-2018-1",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "randi.gottlieb",
+    "courseId": "rs-course-2018-2",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "randi.gottlieb",
+    "courseId": "rs-course-2018-3",
+    "city": "other",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "retta_mckenzie",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "retta_mckenzie",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "retta_mckenzie",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "shania_stamm43",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "shania_stamm43",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "shania_stamm43",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "icie45",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "icie45",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "icie45",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "elbert_quigley",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "elbert_quigley",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "elbert_quigley",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "halle73",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "halle73",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "halle73",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "summer.hane55",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "summer.hane55",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "summer.hane55",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "rosie_schaden",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "rosie_schaden",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "rosie_schaden",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "bell95",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "bell95",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "bell95",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "michel_beahan91",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "michel_beahan91",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "michel_beahan91",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "bria.watsica9",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "bria.watsica9",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "bria.watsica9",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "otto_moen82",
+    "courseId": "rs-course-2018-1",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "otto_moen82",
+    "courseId": "rs-course-2018-2",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "otto_moen82",
+    "courseId": "rs-course-2018-3",
+    "city": "brest",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "katheryn.kiehn84",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "katheryn.kiehn84",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "katheryn.kiehn84",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "wilhelm.watsica",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "wilhelm.watsica",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "wilhelm.watsica",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "leanna71",
+    "courseId": "rs-course-2018-1",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "leanna71",
+    "courseId": "rs-course-2018-2",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "leanna71",
+    "courseId": "rs-course-2018-3",
+    "city": "gomel",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "cortney65",
+    "courseId": "rs-course-2018-1",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "cortney65",
+    "courseId": "rs-course-2018-2",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "cortney65",
+    "courseId": "rs-course-2018-3",
+    "city": "vitebsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "brock19",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "brock19",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "brock19",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "sammy.weimann50",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "sammy.weimann50",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "sammy.weimann50",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "lane_olson",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "lane_olson",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "lane_olson",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "jedidiah_torphy",
+    "courseId": "rs-course-2018-1",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "jedidiah_torphy",
+    "courseId": "rs-course-2018-2",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 5,
+    "mentees": []
+  },
+  {
+    "userId": "jedidiah_torphy",
+    "courseId": "rs-course-2018-3",
+    "city": "mogilev",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "alysson_huel",
+    "courseId": "rs-course-2018-1",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "alysson_huel",
+    "courseId": "rs-course-2018-2",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 9,
+    "mentees": []
+  },
+  {
+    "userId": "alysson_huel",
+    "courseId": "rs-course-2018-3",
+    "city": "grodna",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "hassie_stark4",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  },
+  {
+    "userId": "hassie_stark4",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "hassie_stark4",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 10,
+    "mentees": []
+  },
+  {
+    "userId": "olin91",
+    "courseId": "rs-course-2018-1",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 7,
+    "mentees": []
+  },
+  {
+    "userId": "olin91",
+    "courseId": "rs-course-2018-2",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 8,
+    "mentees": []
+  },
+  {
+    "userId": "olin91",
+    "courseId": "rs-course-2018-3",
+    "city": "minsk",
+    "isActive": true,
+    "menteeCapacity": 6,
+    "mentees": []
+  }
+]

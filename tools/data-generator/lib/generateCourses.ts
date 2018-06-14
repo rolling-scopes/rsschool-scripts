@@ -1,34 +1,38 @@
 import * as fs from 'fs';
-import * as csvStringify from 'csv-stringify';
 import * as faker from 'faker';
 
-const defaultFileName = './out/courses.csv';
+const defaultFileName = './out/courses.json';
 const recordsCount = 3;
 
-export function generateCourses() {
+export type Course = {
+    _id: string;
+    name: string;
+    description: string;
+    startDateTime: number;
+    endDateTime: number;
+    isActive: boolean;
+};
+
+export function generateCourses(): Promise<Course[]> {
     const fileName = process.argv[2] || defaultFileName;
-    const users: string[][] = [['_id', 'name', 'description', 'startDateTime', 'endDateTime', 'isActive']];
+    const courses: Course[] = [];
     console.log('[Courses] Start generating');
+
     for (let i = 0; i < recordsCount; i++) {
         const name = `RS Course 2018 #${i + 1}`;
-        users.push([
-            faker.helpers.slugify(name.toLowerCase()), // _id
+        courses.push({
+            _id: faker.helpers.slugify(name.toLowerCase()), // _id
             name, // name
-            faker.lorem.sentences(3), // description
-            new Date(`2018-${i + 1}-01`).getTime().toString(), // startDateTime
-            new Date(`2018-${i + 3}-01`).getTime().toString(), // endDateTime
-            String(true), // isActive
-        ]);
-    }
-    return new Promise((success, reject) => {
-        csvStringify(users, (err, output) => {
-            if (err != null) {
-                reject(err);
-                return;
-            }
-            fs.writeFileSync(fileName, output);
-            console.info(`[Courses] Successfully generated ${recordsCount} records and saved to ${fileName}`);
-            success(output);
+            description: faker.lorem.sentences(3), // description
+            startDateTime: new Date(`2018-${i + 1}-01`).getTime(), // startDateTime
+            endDateTime: new Date(`2018-${i + 3}-01`).getTime(), // endDateTime
+            isActive: true, // isActive
         });
+    }
+    return new Promise(success => {
+        const jsonString = JSON.stringify(courses, undefined, 2);
+        fs.writeFileSync(fileName, jsonString);
+        console.info(`[Courses] Successfully generated ${recordsCount} records and saved to ${fileName}`);
+        success(courses);
     });
 }
