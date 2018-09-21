@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "6da626d1-f5b3-49b0-bf25-a61c41af4581",
+    "title": "Markup",
+    "type": "Task",
+    "startDateTime": 1514754000000,
+    "endDateTime": 1519851600000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-1"
+  },
+  {
+    "_id": "e4f618f5-7348-4f64-a3e6-d220f100f957",
+    "title": "JS Core Interview",
+    "type": "Code Jam",
+    "startDateTime": 1514754000000,
+    "endDateTime": 1519851600000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-1"
+  },
+  {
+    "_id": "ea226b27-54c3-459a-a93d-a96626786d76",
+    "title": "Final Game",
+    "type": "Test",
+    "startDateTime": 1514754000000,
+    "endDateTime": 1519851600000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-1"
+  },
+  {
+    "_id": "86c74fee-a43f-42bf-8785-8afa67032608",
+    "title": "Match Game",
+    "type": "Code Jam",
+    "startDateTime": 1514754000000,
+    "endDateTime": 1519851600000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-1"
+  },
+  {
+    "_id": "29e4a59e-3bd0-4b53-ae29-f09b272f1ac4",
+    "title": "Markup",
+    "type": "Code Jam",
+    "startDateTime": 1517432400000,
+    "endDateTime": 1522530000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-2"
+  },
+  {
+    "_id": "8f4d55e9-e0c1-4a1b-8408-57c4a028f4d0",
+    "title": "JS Core Interview",
+    "type": "Code Jam",
+    "startDateTime": 1517432400000,
+    "endDateTime": 1522530000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-2"
+  },
+  {
+    "_id": "dafad97f-115b-42a1-b8f8-8ac169c595ff",
+    "title": "Final Game",
+    "type": "Task",
+    "startDateTime": 1517432400000,
+    "endDateTime": 1522530000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-2"
+  },
+  {
+    "_id": "fad45393-261a-4db7-a616-ab10032eaaa1",
+    "title": "Match Game",
+    "type": "Code Jam",
+    "startDateTime": 1517432400000,
+    "endDateTime": 1522530000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-2"
+  },
+  {
+    "_id": "68dec950-10ad-4ed9-845d-70f25178836a",
+    "title": "Markup",
+    "type": "Interview",
+    "startDateTime": 1519851600000,
+    "endDateTime": 1525122000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-3"
+  },
+  {
+    "_id": "e2e7334a-277f-4d18-b30b-f468455ae38f",
+    "title": "JS Core Interview",
+    "type": "Interview",
+    "startDateTime": 1519851600000,
+    "endDateTime": 1525122000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-3"
+  },
+  {
+    "_id": "69ad9f26-50cc-4697-9959-a3093300e264",
+    "title": "Final Game",
+    "type": "Interview",
+    "startDateTime": 1519851600000,
+    "endDateTime": 1525122000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-3"
+  },
+  {
+    "_id": "f4b08bb6-e3dc-44e7-bba9-416afc50a30c",
+    "title": "Match Game",
+    "type": "Test",
+    "startDateTime": 1519851600000,
+    "endDateTime": 1525122000000,
+    "whoChecks": "Mentor",
+    "urlToDescription": "https://gitter.im/rolling-scopes-school/announcements",
+    "courseId": "rs-course-2018-3"
+  }
+]

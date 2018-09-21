@@ -5,7 +5,7 @@ import { User } from './generateUsers';
 
 const defaultFileName = './out/coursementors.json';
 
-type CourseMentor = {
+export type CourseMentor = {
     userId: string;
     courseId: string;
     isActive: boolean;
