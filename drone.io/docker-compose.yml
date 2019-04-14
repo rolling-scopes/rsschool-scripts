@@ -2,30 +2,35 @@ version: '2'
 
 services:
   drone-server:
-    image: drone/drone:0.8
+    image: drone/drone:1.0
     ports:
-      - 80:8000
+      - 80:80
       - 9000
     volumes:
-      - /var/lib/drone:/var/lib/drone/
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /var/lib/drone:/data
     restart: always
     environment:
-      - DRONE_OPEN=true
-      - DRONE_HOST=http://ec2-52-59-213-87.eu-central-1.compute.amazonaws.com
+      - DRONE_GITHUB_SERVER=https://github.com
+      - DRONE_GITHUB_CLIENT_ID=${DRONE_GITHUB_CLIENT}
+      - DRONE_GITHUB_CLIENT_SECRET=${DRONE_GITHUB_SECRET}
+      - DRONE_RUNNER_CAPACITY=1
+      - DRONE_SERVER_HOST=127.0.0.1
+      - DRONE_SERVER_PROTO=http
       - DRONE_ORGS=rolling-scopes
       - DRONE_ADMIN=apalchys,dzmitry-varabei
-      - DRONE_GITHUB=true
-      - DRONE_GITHUB_CLIENT=${DRONE_GITHUB_CLIENT}
-      - DRONE_GITHUB_SECRET=${DRONE_GITHUB_SECRET}
-      - DRONE_SECRET=${DRONE_SECRET}
+      - DRONE_OPEN=true
+      - DRONE_RPC_SECRET=${DRONE_SECRET}
+      - DRONE_AGENTS_ENABLED=true
   drone-agent:
-    image: drone/agent:0.8
-    command: agent
+    container_name: drone-agent
+    image: drone/agent:1.0
     restart: always
     depends_on:
       - drone-server
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     environment:
-      - DRONE_SERVER=drone-server:9000
-      - DRONE_SECRET=${DRONE_SECRET}
+      - DRONE_RPC_SERVER=http://drone-server
+      - DRONE_RPC_SECRET=${DRONE_SECRET}
+      - DRONE_RUNNER_CAPACITY=1
