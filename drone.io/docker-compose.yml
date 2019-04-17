@@ -15,7 +15,7 @@ services:
       - DRONE_GITHUB_CLIENT_ID=${DRONE_GITHUB_CLIENT}
       - DRONE_GITHUB_CLIENT_SECRET=${DRONE_GITHUB_SECRET}
       - DRONE_RUNNER_CAPACITY=1
-      - DRONE_SERVER_HOST=127.0.0.1
+      - DRONE_SERVER_HOST=ec2-18-185-131-94.eu-central-1.compute.amazonaws.com
       - DRONE_SERVER_PROTO=http
       - DRONE_ORGS=rolling-scopes
       - DRONE_ADMIN=apalchys,dzmitry-varabei
