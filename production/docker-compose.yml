@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 services:
   ui:
     image: rsschool/ui:v2
@@ -23,8 +23,6 @@ services:
       RSSHCOOL_API_PG_DATABASE: ${RSSHCOOL_API_PG_DATABASE}
       RSSHCOOL_API_ADMIN_USERNAME: ${RSSHCOOL_API_ADMIN_USERNAME}
       RSSHCOOL_API_ADMIN_PASSWORD: ${RSSHCOOL_API_ADMIN_PASSWORD}
-    depends_on:
-      - mongodb
   proxy:
     image: rsschool/proxy
     ports:
@@ -32,12 +30,3 @@ services:
     depends_on:
       - api
       - ui
-  mongodb:
-    image: mongo:3.6
-    volumes:
-      - /data/mongodb:/data/db
-    environment:
-      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
-      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
-    ports:
-      - 27017:27017
