@@ -23,7 +23,7 @@ services:
             RSSHCOOL_API_ADMIN_USERNAME: ${RSSHCOOL_API_ADMIN_USERNAME}
             RSSHCOOL_API_ADMIN_PASSWORD: ${RSSHCOOL_API_ADMIN_PASSWORD}
     proxy:
-        image: rsschool/proxy
+        image: rsschool/proxy:latest
         ports:
             - 80:8080
         depends_on:
