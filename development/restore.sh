@@ -1,0 +1,1 @@
+docker exec  -i development_postgres_1 psql -U rs_master -d rs_school < ./backup.sql

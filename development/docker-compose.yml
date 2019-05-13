@@ -1,12 +1,13 @@
 version: "3"
 services:
-  mongodb:
-    image: mongo
-    command: mongod --smallfiles
-    ports:
-      - 27017:27017
-
-  mongo_import:
-    build: "../tools/data-generator"
-    links:
-      - mongodb
+    postgres:
+        image: postgres:10.6
+        restart: always
+        volumes:
+            - /tmp/postgresql/data:/var/lib/postgresql/data
+        environment:
+            POSTGRES_PASSWORD: 12345678
+            POSTGRES_USER: rs_master
+            POSTGRES_DB: rs_school
+        ports:
+            - 5432:5432
