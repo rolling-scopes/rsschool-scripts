@@ -6,6 +6,8 @@ services:
             - 8081:8080
         environment:
             RS_HOST: ${RS_HOST}
+        restart: on-failure
+
     api:
         image: rsschool/api:latest
         ports:
@@ -29,6 +31,7 @@ services:
             RSSHCOOL_API_HIRERS: ${RSSHCOOL_API_HIRERS}
             RSSHCOOL_API_AWS_SECRET_ACCESS_KEY: ${RSSHCOOL_API_AWS_SECRET_ACCESS_KEY}
             RSSHCOOL_API_AWS_ACCESS_KEY_ID: ${RSSHCOOL_API_AWS_ACCESS_KEY_ID}
+            RSSHCOOL_API_AWS_REGION: ${RSSHCOOL_API_AWS_REGION}
             RSSHCOOL_API_AWS_CERTIFICATE_GENERATION_URL: ${RSSHCOOL_API_AWS_CERTIFICATE_GENERATION_URL}
             RSSHCOOL_API_AWS_CERTIFICATE_GENERATION_API_KEY: ${RSSHCOOL_API_AWS_CERTIFICATE_GENERATION_API_KEY}
             RSSHCOOL_API_AWS_TASK_API_URL: ${RSSHCOOL_API_AWS_TASK_API_URL}
@@ -37,11 +40,13 @@ services:
             RSSHCOOL_API_GITHUB_APP_INSTALL_ID: ${RSSHCOOL_API_GITHUB_APP_INSTALL_ID}
             RSSHCOOL_API_GITHUB_PRIVATE_KEY: ${RSSHCOOL_API_GITHUB_PRIVATE_KEY}
             RSSHCOOL_API_DATADOG_API_KEY: ${RSSHCOOL_API_DATADOG_API_KEY}
+        restart: on-failure
 
     proxy:
         image: rsschool/proxy:latest
         volumes:
             - /etc/letsencrypt:/etc/letsencrypt
+        restart: on-failure
         ports:
             - 80:8080
             - 443:443
